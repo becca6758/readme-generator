@@ -15,7 +15,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Project can be accessed or installed via "https://becca6758.github.io/readme-generator/" or by cloning the repo.
+Project can be installed by cloning the repo.
 
 Repo Clone:
 1. Go to "https://github.com/becca6758/readme-generator
