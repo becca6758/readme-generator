@@ -27,9 +27,7 @@ Repo Clone:
  
 ## Usage
 
-    ```md
-    [![readme-generator-video](readme-generator/readme-generator-video.mov)
-    ```
+  "https://drive.google.com/file/d/1FWz41_PADepqtD-iDjMTQeDh8jW5KP0o/view?usp=sharing"
 
 ## Credits
 
